@@ -1,0 +1,6 @@
+total 16
+-rwxr--r-- 1 ron ron  192 Feb  3 03:32 1.sh
+-rw-rw-r-- 1 ron ron    0 Feb  3 03:33 cat
+-rw-rw-r-- 1 ron ron  399 Feb  3 03:06 demo
+-rw-rw-r-- 1 ron ron   49 Feb  3 03:10 maths
+drwxrwxr-x 3 ron ron 4096 Feb  3 03:33 Test1
